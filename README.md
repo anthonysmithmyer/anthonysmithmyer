@@ -30,7 +30,7 @@ My journey in cybersecurity has led me to develop a passion for technology and s
 None so far, but I am hoping to obtain certifications with Magnet Axiom and Certified Ethical Hacker (CEH).
 
 ## Projects/Reports
-- Precious
-- Mantooth
-- Washer
+- <a href="https://github.com/anthonysmithmyer/Precious">Precious</a>
+- <a href="https://github.com/anthonysmithmyer/Mantooth">Mantooth</a>
+- <a href="https://github.com/anthonysmithmyer/Washer">Washer</a>
 - Clampet
