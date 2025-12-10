@@ -1,7 +1,7 @@
 # Hello, I'm Anthony
 <a href="https://www.linkedin.com/in/anthony-smithmyer-19b298337/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-I am a student with a profound interest in technology and a dedication to helping others and solving complex problems.
+I am a college student with a profound interest in technology and a dedication to helping others and solving complex problems.
 
 ## Objective
 
@@ -18,7 +18,7 @@ My journey in cybersecurity has led me to develop a passion for technology and s
 | Windows Registry Explorer                  | <a href="https://www.sans.org/tools/registry-explorer">Windows Registry Explorer</a>|
 | Wireshark | <a href="https://www.wireshark.org/download.html">Wireshark</a>|
 
-- **Autopsy** is an open-source tool used to analyze a disk image for an investigation.
+- **Autopsy** is an open-source tool used to analyze a disk image for a digital forensics investigation.
 - **Bulk Extractor** is a tool for kali linux that can be used to create a custom wordlist with a disk image, which can be used to crack passwords, find emails, phone numbers, etc.
 - **FTK Imager** is a free tool used to create a bit-for-bit image of a hard drive, USB, CD, and other storage media.
 - **Volatility** is a tool used to capture RAM on a computer to be analyzed in an investigation.
@@ -33,4 +33,4 @@ None so far, but I am hoping to obtain certifications with Magnet Axiom and Cert
 - <a href="https://github.com/anthonysmithmyer/Precious">Precious</a>
 - <a href="https://github.com/anthonysmithmyer/Mantooth">Mantooth</a>
 - <a href="https://github.com/anthonysmithmyer/Washer">Washer</a>
-- Clampet
+- <a href="https://github.com/anthonysmithmyer/Clampet">Clampet</a>
